@@ -30,7 +30,6 @@ if (loginForm) {
     });
 
 }
-No final do script.js:
 if ("serviceWorker" in navigator) {
 
     window.addEventListener(

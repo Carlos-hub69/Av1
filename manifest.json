@@ -1,7 +1,7 @@
 {
-    "name": "NEXUS Services",
+    "name": "Carlão serviços",
     "short_name": "NEXUS",
-    "description": "Plataforma futurista de serviços próximos de você",
+    "description": "Veja carros que estão além de seu orçamento",
     "start_url": "./index.html",
     "display": "standalone",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "theme_color": "#8b5cf6",
     "icons": [
       {
-        "src": "icons/icon-192.png",
+        "src": "icons/icons-192.png",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any maskable"
